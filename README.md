@@ -1,8 +1,6 @@
-# 👋 Hello, I'm [Your Name]
+## Hi, I'm Emad Hajaj
 
-## 💻 Full-Stack Developer | Embedded Systems Engineer | Cloud Enthusiast
-
-I'm a versatile developer on a journey through different technology domains, currently seeking new opportunities to apply my diverse skill set.
+Cloud engineer
 
 ---
 
@@ -50,8 +48,5 @@ I'm a versatile developer on a journey through different technology domains, cur
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Emad Hajaj](https://github-readme-stats.vercel.app/api?username=emadhajaj&show_icons=true&theme=radical)
 
----
-
-> "I'm actively seeking new opportunities! Available to start within 3 months."
